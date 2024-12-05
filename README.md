@@ -2,9 +2,8 @@
 This is the recreation of Conway's Game of Life using python and pygame.
 
 
-//--------------------------------------------
+
 // Las intrucciones en español estan mas abajo
-//--------------------------------------------
 
 
 
