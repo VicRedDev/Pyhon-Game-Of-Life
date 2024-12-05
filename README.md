@@ -9,9 +9,8 @@ This is the recreation of Conway's Game of Life using python and pygame.
 
 
 
-| -----------
+
 | >>> English
-| -----------
 
 | Welcome!
 
@@ -70,9 +69,9 @@ Have fun!
 
 
 
-| -----------
+
 | >>> Spanish
-| -----------
+
 
 
 | Bienvenido!
